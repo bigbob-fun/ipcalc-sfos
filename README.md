@@ -23,3 +23,6 @@ From the SailfishOS:Chum GUI, or on the command line:
 
 Packaging issues: please open an issue here. Upstream issues:
 https://gitlab.com/ipcalc/ipcalc/-/issues
+
+---
+*AI disclosure: this packaging was prepared interactively with Claude Code (Anthropic's AI coding assistant). Every action was requested, reviewed and approved by me; nothing was decided or published autonomously.*
